@@ -1,0 +1,104 @@
+#items-grid {
+  margin-bottom: 30px;
+}
+
+#items-grid .txt-heading {
+  background-color: #d3f5b8;
+}
+
+#items-grid table {
+  width: 100%;
+  background-color: #f0f0f0;
+}
+
+#items-grid table td {
+  background-color: #ffffff;
+}
+
+.search-box {
+  border: 1px solid #f0f0f0;
+  background-color: #c8eefd;
+  margin: 2px 0px;
+}
+
+.demoInputBox {
+  padding: 10px;
+  border: #f0f0f0 1px solid;
+  border-radius: 4px;
+  margin: 0px 5px;
+}
+
+.btnSearch {
+  padding: 10px;
+  border: #f0f0f0 1px solid;
+  border-radius: 4px;
+  margin: 0px 5px;
+}
+
+.perpage-link {
+  padding: 5px 10px;
+  border: #c8eefd 2px solid;
+  border-radius: 4px;
+  margin: 0px 5px;
+  background: #fff;
+  cursor: pointer;
+}
+
+.current-page {
+  padding: 5px 10px;
+  border: #c8eefd 2px solid;
+  border-radius: 4px;
+  margin: 0px 5px;
+  background: #c8eefd;
+}
+
+.btnEditAction {
+  background-color: #2fc332;
+  padding: 2px 5px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.btnDeleteAction {
+  background-color: #d60202;
+  padding: 2px 5px;
+  color: #fff;
+  text-decoration: none;
+}
+
+#btnAddAction {
+  background-color: #09f;
+  border: 0;
+  padding: 5px 10px;
+  color: #fff;
+  text-decoration: none;
+}
+
+#frmitem {
+  border-top: #f0f0f0 2px solid;
+  background: #faf8f8;
+  padding: 10px;
+}
+
+#frmitem div {
+  margin-bottom: 15px;
+}
+
+#frmitem div label {
+  margin-left: 5px;
+}
+
+.error {
+  background-color: #ff6600;
+  border: #aa4502 1px solid;
+  padding: 5px 10px;
+  color: #ffffff;
+  border-radius: 4px;
+}
+
+.info {
+  font-size: 0.8em;
+  color: #ff6600;
+  letter-spacing: 2px;
+  padding-left: 5px;
+}
